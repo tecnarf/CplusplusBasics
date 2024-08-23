@@ -1,1 +1,1 @@
-Aqui puedes encontrar algunos conceptos basicos para la programacion en C++
+Aquí puedes visualizar algunos conceptos básicos para la programacion en C++
